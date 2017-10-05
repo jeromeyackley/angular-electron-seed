@@ -42,13 +42,13 @@
     "electron-connect": "^0.6.2",
     "electron-packager": "^9.1.0",
     "rxjs": "^5.4.3",
-    "zone.js": "^0.8.17"
+    "zone.js": "^0.8.18"
   },
   "devDependencies": {
-    "@angular/cli": "1.4.3",
-    "@angular/compiler-cli": "^4.0.0",
+    "@angular/cli": "1.4.5",
+    "@angular/compiler-cli": "^4.4.4",
     "@types/jasmine": "2.6.0",
-    "@types/node": "~8.0.30",
+    "@types/node": "~8.0.32",
     "codelyzer": "~3.2.0",
     "electron-debug": "^1.4.0",
     "gulp": "^3.9.1",
